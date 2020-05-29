@@ -1,0 +1,21 @@
+{
+  "name": "rli",
+  "version": "0.0.1",
+  "description": "Symlink React dependencies for easier local package development.",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "rli": "index.js"
+  },
+  "author": "estrattonbailey",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "symlink",
+    "invalid hook",
+    "npm link"
+  ],
+  "dependencies": {
+    "ansi-colors": "^4.1.1"
+  }
+}
